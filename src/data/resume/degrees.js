@@ -3,7 +3,7 @@ const degrees = [
     school: 'New York University, NY, USA',
     degree: 'M.S. Computer Science',
     link: 'https://nyu.edu',
-    year: 2022 - Present,
+    year: 2022,
   },
   {
     school: 'Pune Institute of Computer Technology, Pune, India',
